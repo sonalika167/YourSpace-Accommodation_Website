@@ -6,4 +6,5 @@ After downloading:
 3. Type the url http://localhost/your_space/main.php and the project is ready to run.
 
 HomePage
-![Screenshot (261)](https://user-images.githubusercontent.com/49434891/79894605-54d21f80-8423-11ea-92a8-fa694ffbf0a2.png)
+![Screenshot (261)](https://user-images.githubusercontent.com/49434891/79894948-cd38e080-8423-11ea-8a32-b00ecd200a76.png)
+
